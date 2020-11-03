@@ -1,0 +1,5 @@
+
+type Query {
+  users: [User],
+  customers: [Customer]
+}
